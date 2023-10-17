@@ -74,6 +74,7 @@ export const GalleryMainDisplay = styled.article`
                         color: black;
                         background: silver;
                         transition: all 500ms;
+                        border-radius: 3px;
                     }
                 }
             }
