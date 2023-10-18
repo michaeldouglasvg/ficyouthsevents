@@ -203,12 +203,12 @@ export const IconSection = styled.div`
 
 // Header >> Large screen navigation
 export const WindowViewNav = styled.div`
-   width: 0px;
+   width: 40px;
    max-width: 150px;
    height: 100vh;
    box-shadow: ${({theme}) => theme.colors.boxshadow};
    position: fixed;
-   left: -40px;
+   left: 0px;
    bottom: 0;
    z-index: 999;
    background: var(--background-color);
